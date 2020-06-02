@@ -1,0 +1,9 @@
+```metadata
+number: "8"
+title: "Chapter 8: Chapter Name Here"
+section: 1
+```
+
+# Chapter 8: Chapter Name Here
+
+This is an early access release of this book. Stay tuned for this chapter in a future release!
