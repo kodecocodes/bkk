@@ -2,6 +2,12 @@
 number: "29"
 title: "Chapter 29: Chapter Name Here"
 section: 1
+authors:
+  - username: chrisrazeware
+    role: author
+description:
+  Some kind of description about this chapter. It can be
+  on multiple lines, provided you respect the indentation.
 ```
 
 # Chapter 29: Chapter Name Here
