@@ -1,4 +1,25 @@
-title: Book Title Here
+---
+# Book Metadata File
+sku: TODO
+edition: x.x
+title: TODO
+description:
+  TODO. This can be multiple lines. Just be sure to maintain the indent on
+  subsequent lines.
+# Date formatted as yyyy-mm-dd. The edition will be available at midnight, UTC.
+released_at: 2050-01-01
+# A link to a specific branch of the materials repo—a public repo hosted on GitHub.
+materials_url: https://github.com/raywenderlich/ia-materials/tree/editions/8.3
+authors:
+  # These are applied to every chapter in the book. You can specify at a per-chapter level in the
+  # metadata section of each chapter.
+  # Roles: fpe, editor, tech_editor, author, illustrator
+  # Use their rw.com username.
+  - username: mandafrederick
+    role: editor
+  - username: chrisrazeware
+    role: fpe
+# The list of segments that used to live in a codex file
 segments:
   - kind: cover
     path: frontmatter/cover.markdown
