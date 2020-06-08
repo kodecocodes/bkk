@@ -7,9 +7,9 @@ segments:
   - kind: legal
     path: frontmatter/legal.markdown
   - kind: dedications
-    path: frontmatter/dedications.markdown    
+    path: frontmatter/dedications.markdown
   - kind: team-bios
-    path: frontmatter/team.markdown 
+    path: frontmatter/team.markdown
   - kind: chapter
     path: frontmatter/license.markdown
   - kind: chapter
@@ -17,74 +17,74 @@ segments:
   - kind: chapter
     path: frontmatter/what-you-need.markdown
   - kind: chapter
-    path: frontmatter/book-source-code.markdown 
+    path: frontmatter/book-source-code.markdown
   - kind: chapter
     path: frontmatter/about-the-cover.markdown
   - kind: chapter
     path: frontmatter/early-access-note.markdown
   - kind: section
-    path: section-intros/section-intro-1.markdown 
+    path: section-intros/section-intro-1.markdown
   - kind: chapter
     path: placeholders/1.markdown
   - kind: chapter
-    path: placeholders/2.markdown 
+    path: placeholders/2.markdown
   - kind: chapter
     path: placeholders/3.markdown
   - kind: section
-    path: section-intros/section-intro-2.markdown 
+    path: section-intros/section-intro-2.markdown
   - kind: chapter
     path: placeholders/4.markdown
   - kind: chapter
-    path: placeholders/5.markdown 
+    path: placeholders/5.markdown
   - kind: chapter
-    path: placeholders/6.markdown 
+    path: placeholders/6.markdown
   - kind: section
-    path: section-intros/section-intro-3.markdown 
+    path: section-intros/section-intro-3.markdown
   - kind: chapter
     path: placeholders/7.markdown
   - kind: chapter
-    path: placeholders/8.markdown 
+    path: placeholders/8.markdown
   - kind: chapter
     path: placeholders/9.markdown
   - kind: section
-    path: section-intros/section-intro-4.markdown 
+    path: section-intros/section-intro-4.markdown
   - kind: chapter
     path: placeholders/10.markdown
   - kind: chapter
-    path: placeholders/11.markdown 
+    path: placeholders/11.markdown
   - kind: chapter
     path: placeholders/12.markdown
   - kind: section
-    path: section-intros/section-intro-5.markdown 
+    path: section-intros/section-intro-5.markdown
   - kind: chapter
     path: placeholders/13.markdown
   - kind: chapter
-    path: placeholders/14.markdown 
+    path: placeholders/14.markdown
   - kind: chapter
     path: placeholders/15.markdown
   - kind: section
-    path: section-intros/section-intro-6.markdown 
+    path: section-intros/section-intro-6.markdown
   - kind: chapter
     path: placeholders/16.markdown
   - kind: chapter
-    path: placeholders/17.markdown 
+    path: placeholders/17.markdown
   - kind: chapter
     path: placeholders/18.markdown
   - kind: section
-    path: section-intros/section-intro-7.markdown 
+    path: section-intros/section-intro-7.markdown
   - kind: chapter
     path: placeholders/19.markdown
   - kind: chapter
-    path: placeholders/20.markdown 
+    path: placeholders/20.markdown
   - kind: chapter
     path: placeholders/21.markdown
   - kind: section
-    path: section-intros/section-intro-8.markdown 
+    path: section-intros/section-intro-8.markdown
   - kind: chapter
     path: placeholders/22.markdown
   - kind: chapter
-    path: placeholders/23.markdown 
+    path: placeholders/23.markdown
   - kind: chapter
     path: placeholders/24.markdown
   - kind: chapter
-    path: frontmatter/conclusion.markdown 
+    path: frontmatter/conclusion.markdown
