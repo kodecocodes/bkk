@@ -1,0 +1,29 @@
+name: 'robles Test [PRODUCTION]'
+on:
+  pull_request:
+
+jobs:
+  lint:
+    name: Lint book
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v2
+      - name: Lint via robles
+        uses: docker://razeware/robles:latest
+        with:
+          entrypoint: '/app/robles/bin/robles'
+          args: 'lint'
+        env:
+          ENV: staging
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Notify slack - test results
+        uses: voxmedia/github-action-slack-notify-build@v1
+        if: failure()
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        with:
+          channel: robles
+          status: FAILED
+          color: danger
