@@ -52,25 +52,4 @@ jobs:
           AWS_REGION: us-east-1
           IMAGES_CDN_HOST: assets.alexandria.raywenderlich.com
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Notify slack - build result successful
-        uses: voxmedia/github-action-slack-notify-build@v1
-        if: success()
-        env:
-          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-        with:
-          message_id: ${{ steps.slack.outputs.message_id }}
-          channel: robles
-          status: SUCCESS
-          color: good
-
-      - name: Notify slack - build result failed
-        uses: voxmedia/github-action-slack-notify-build@v1
-        if: failure()
-        env:
-          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
-        with:
-          message_id: ${{ steps.slack.outputs.message_id }}
-          channel: robles
-          status: FAILED
-          color: danger
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
