@@ -2,6 +2,7 @@
 # Book Metadata File
 sku: TODO
 edition: 1.0
+version_description: First Edition
 title: TODO
 description:
   TODO. This can be multiple lines. Just be sure to maintain the indent on
@@ -10,6 +11,16 @@ description:
 released_at: 2050-01-01
 # A link to a specific branch of the materials repo—a public repo hosted on GitHub.
 materials_url: https://github.com/raywenderlich/ia-materials/tree/editions/8.3
+cover_image: frontmatter/images/cover.png
+ professional: false
+ difficulty: beginner/intermediate/advanced
+ platform: TODO
+ language: TODO
+ editor: TODO
+ who_is_this_for_md: |
+   TODO
+ covered_concepts_md: |
+   - TODO
 authors:
   # These are applied to every chapter in the book. You can specify at a per-chapter level in the
   # metadata section of each chapter.
