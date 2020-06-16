@@ -11,16 +11,27 @@ description:
 released_at: 2050-01-01
 # A link to a specific branch of the materials repo—a public repo hosted on GitHub.
 materials_url: https://github.com/raywenderlich/ia-materials/tree/editions/8.3
+# These image fields are uploaded to the CDN. Use ~ to leave blank.
 cover_image: frontmatter/images/cover.png
- professional: false
- difficulty: beginner/intermediate/advanced
- platform: TODO
- language: TODO
- editor: TODO
- who_is_this_for_md: |
-   TODO
- covered_concepts_md: |
-   - TODO
+gallery_image: ~
+twitter_card_image: ~
+trailer_video_url: ~
+# Fill each of these in
+professional: false
+difficulty: beginner/intermediate/advanced
+platform: TODO
+language: TODO
+editor: TODO
+# These are arrays
+domains:
+  - ios
+  - android
+categories: []
+# The following are interpreted as markdown. The | means you can provide a multiline string.
+who_is_this_for_md: |
+  TODO
+covered_concepts_md: |
+  - TODO
 authors:
   # These are applied to every chapter in the book. You can specify at a per-chapter level in the
   # metadata section of each chapter.
