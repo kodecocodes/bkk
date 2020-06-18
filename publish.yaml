@@ -37,9 +37,9 @@ authors:
   # metadata section of each chapter.
   # Roles: fpe, editor, tech_editor, author, illustrator
   # Use their rw.com username.
-  - username: mandafrederick
+  - username: TODO
     role: editor
-  - username: chrisrazeware
+  - username: TODO
     role: fpe
 # The list of segments that used to live in a codex file
 segments:
