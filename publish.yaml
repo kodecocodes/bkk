@@ -4,7 +4,7 @@ sku: TODO
 edition: 1.0
 version_description: First Edition
 title: TODO
-description:
+description: |
   TODO. This can be multiple lines. Just be sure to maintain the indent on
   subsequent lines.
 # Date formatted as yyyy-mm-dd. The edition will be available at midnight, UTC.

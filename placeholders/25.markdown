@@ -5,7 +5,7 @@ section: 1
 authors:
   - username: chrisrazeware
     role: author
-description:
+description: |
   Some kind of description about this chapter. It can be
   on multiple lines, provided you respect the indentation.
 ```
