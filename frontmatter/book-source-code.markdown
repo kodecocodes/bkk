@@ -1,11 +1,18 @@
 ```metadata
-number: "B"
+number: "ii"
 title: Book Source Code & Forums
-section: 
+section: 0
 ```
 
 # Book Source Code & Forums
 
+### If you’re reading the online version
+
+The materials for this book are all available in the GitHub repository here:
+
+- [https://github.com/raywenderlich/TODO-materials/tree/editions/1.0](https://github.com/raywenderlich/TODO-materials/tree/editions/1.0)
+
+You can download the entire set of materials for the book from that page.
 ### If you bought the digital edition
 
 The digital edition of this book comes with the source code for the starter and completed projects for each chapter. These resources are included with the digital edition you downloaded from [store.raywenderlich.com](store.raywenderlich.com). 

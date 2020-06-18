@@ -10,7 +10,7 @@ description: |
 # Date formatted as yyyy-mm-dd. The edition will be available at midnight, UTC.
 released_at: 2050-01-01
 # A link to a specific branch of the materials repo—a public repo hosted on GitHub.
-materials_url: https://github.com/raywenderlich/ia-materials/tree/editions/8.3
+materials_url: https://github.com/raywenderlich/TODO-materials/tree/editions/1.0
 # These image fields are uploaded to the CDN. Use ~ to leave blank.
 cover_image: frontmatter/images/cover.png
 gallery_image: ~
@@ -58,13 +58,15 @@ segments:
   - kind: chapter
     path: frontmatter/who-this-book-is-for.markdown
   - kind: chapter
+    path: frontmatter/early-access-note.markdown
+  - kind: section
+    path: section-intros/section-intro-0.markdown
+  - kind: chapter
     path: frontmatter/what-you-need.markdown
   - kind: chapter
     path: frontmatter/book-source-code.markdown
-  - kind: chapter
+  - kind: chapter 
     path: frontmatter/about-the-cover.markdown
-  - kind: chapter
-    path: frontmatter/early-access-note.markdown
   - kind: section
     path: section-intros/section-intro-1.markdown
   - kind: chapter
