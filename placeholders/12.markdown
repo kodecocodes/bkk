@@ -2,6 +2,8 @@
 number: "12"
 title: "Chapter 12: Chapter Name Here"
 section: 1
+free: false
+author: By Your Name
 authors:
   - username: chrisrazeware
     role: author
