@@ -1,16 +1,8 @@
 ```metadata
-number: " "
+number: "1"
 title: "Section I: Section One Name Here"
 ```
 
 # Section I: Section One Name Here
 
-[TODO: FPE: Please update the descriptions and lists below with the correct chapter numbers, as well as with an overview of the section and short descriptions for each chapter.]
-
-This is an early-access release of the book, with the following chapters planned for this section:
-
-7. **Chapter X Title Here**: One or two sentence description of Chapter X.
-
-8. **Chapter Y Title Here**: One or two sentence description of Chapter Y.
-
-9. **Chapter Z Title Here**: One or two sentence description of Chapter Z.
+[TODO: FPE: Please update with a short overview of this section. Don't list the chapters.]
