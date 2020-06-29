@@ -24,24 +24,36 @@ if [ $isEdition -ne 8 ]; then
   read -p "Hit Ctrl-C to cancel, or RETURN to continue" choice
 fi
 
+# Checkout a new branch, make a dir of the same name, and enter it
 git checkout -b $1
 mkdir $1
-cd $1
-mkdir -p images projects/starter projects/final projects/challenge
-touch images/.keep projects/starter/.keep projects/final/.keep projects/challenge/.keep
+pushd $1
+# Create the directory structure within, and ensure git'll keep it. We only need images.
+mkdir -p images
+touch images/.keep
+# Extract the chapter number from the directory name, and create a template file
 chapterNumber=$((10#${1:0:2}))
 cat << EOF > $1.markdown
 \`\`\`metadata
 number: "$chapterNumber"
 title: "Chapter $chapterNumber: Chapter Title Here"
-author: "By A. Friend"
 section: 1
+free: false
+author: TODO: By Your Name
+authors:
+  - username: TODO:yourusername
+    role: author
+description: |
+  TODO: FPE: Please provide 2-3 sentences describing, at a high-level, what this chapter will cover. The description can be
+  on multiple lines, provided you respect the indentation.
 \`\`\`
 
 # Chapter $chapterNumber: Chapter Title Here
 
 EOF
-cd ..
+# Back to whence you started
+popd
+# Commit the new chapter to git
 git add $1
 git commit -m "Adding $1" $1
 git checkout $BRANCH
