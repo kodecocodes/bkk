@@ -67,6 +67,8 @@ segments:
     path: frontmatter/book-source-code.markdown
   - kind: chapter 
     path: frontmatter/about-the-cover.markdown
+  - kind: chapter
+    path: frontmatter/introduction.markdown  
   - kind: section
     path: section-intros/section-intro-1.markdown
   - kind: chapter
