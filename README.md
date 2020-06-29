@@ -48,7 +48,7 @@ existing book, use these instructions:
 2. Using Terminal or a shell console, navigate into the directory that contains
 this repo.
 3. For each new chapter directory and branch you would like to create, execute
-the following command: `./make-codex-subdirectory.sh 00-chapter-name-here`,
+the following command: `./scipts/make-codex-subdirectory.sh 00-chapter-name-here`,
 replacing `00-chapter-name-here` with the (mandatory) zero-padded chapter number
 and hyphenated lowercase name of the chapter. Examples are "01-introduction"
 and "22-gitignore-after-the-fact".
@@ -66,7 +66,7 @@ these instructions:
 2. Using Terminal or a shell console, navigate into the directory that contains
  this repo.
 3. For each chapter branch you would like to create, execute the following
- command: `./make-codex-branch.sh 00-chapter-name-here`, replacing
+ command: `./scripts/make-codex-branch.sh 00-chapter-name-here`, replacing
  `00-chapter-name-here` with the actual zero-padded chapter number and
  hyphenated lowercase name of the chapter. Examples are "01-introduction"
  and "22-gitignore-after-the-fact". This won’t do anything to the existing
