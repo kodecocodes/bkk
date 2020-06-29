@@ -22,7 +22,7 @@ Don’t forget to set up the GitHub book team with **Write** access to this repo
 Once you’ve done the above and removed these instructions, it’s a good idea to
 now go create the `sku-materials` repo from the
 [https://github.com/raywenderlich/bkk-materials]
-(https://github.com/raywenderlich/bkk-materials) repo so you don’t forget. 
+(https://github.com/raywenderlich/bkk-materials) repo so you don’t forget.
 
 Unlike this repo, the materials repo should be public.
 
@@ -30,49 +30,49 @@ Unlike this repo, the materials repo should be public.
 
 # <TODO: FILL IN BOOK NAME HERE>
 
-This repo contains the markdown, images and other elements that compose the body 
+This repo contains the markdown, images and other elements that compose the body
 of this book.
 
-> __NB:__ The downloadable materials that accompany the book (source code, 
+> __NB:__ The downloadable materials that accompany the book (source code,
 projects, assets, etc) must __not__ be stored in this repo. They should
-> be stored in a separate repo, here: <TODO: Update URL with the 
+> be stored in a separate repo, here: <TODO: Update URL with the
 appropriate materials repo location> [https://github.com/raywenderlich/bkk-materials]
 (https://github.com/raywenderlich/bkk-materials).
 
 ## How to set up new chapter branches in this repo
 
-If you’re adding a chapter to a new book (edition/1.0), or a new chapter to an 
+If you’re adding a chapter to a new book (edition/1.0), or a new chapter to an
 existing book, use these instructions:
 
 1. Clone this repository to your local machine.
-2. Using Terminal or a shell console, navigate into the directory that contains 
+2. Using Terminal or a shell console, navigate into the directory that contains
 this repo.
-3. For each new chapter directory and branch you would like to create, execute 
-the following command: `make-codex-subdirectory.sh 00-chapter-name-here`, 
-replacing `00-chapter-name-here` with the (mandatory) zero-padded chapter number 
-and hyphenated lowercase name of the chapter. Examples are "01-introduction" 
+3. For each new chapter directory and branch you would like to create, execute
+the following command: `make-codex-subdirectory.sh 00-chapter-name-here`,
+replacing `00-chapter-name-here` with the (mandatory) zero-padded chapter number
+and hyphenated lowercase name of the chapter. Examples are "01-introduction"
 and "22-gitignore-after-the-fact".
 4. Repeat the above command for all chapter branches you wish to create.
-5. When you’ve completed that, push all of the branches to the remote by 
+5. When you’ve completed that, push all of the branches to the remote by
 executing `git push --all`.
 6. Repeat this process in the associated materials repo.
 
 ## How to set up branches for existing chapters
 
-If you’re creating a branch for a chapter that already exists in a book, use 
+If you’re creating a branch for a chapter that already exists in a book, use
 these instructions:
 
 1. Clone this repository to your local machine.
 2. Using Terminal or a shell console, navigate into the directory that contains
  this repo.
 3. For each chapter branch you would like to create, execute the following
- command: `make-codex-branch.sh 00-chapter-name-here`, replacing 
- `00-chapter-name-here` with the actual zero-padded chapter number and 
- hyphenated lowercase name of the chapter. Examples are "01-introduction" 
- and "22-gitignore-after-the-fact". This won’t do anything to the existing 
+ command: `make-codex-branch.sh 00-chapter-name-here`, replacing
+ `00-chapter-name-here` with the actual zero-padded chapter number and
+ hyphenated lowercase name of the chapter. Examples are "01-introduction"
+ and "22-gitignore-after-the-fact". This won’t do anything to the existing
  directory, except to create a branch to hold the updates for this edition.
 4. Repeat the above command for all chapter branches you wish to create.
-5. When you’ve completed that, push all of the branches to the remote by 
+5. When you’ve completed that, push all of the branches to the remote by
 executing `git push --all`.
 6. Repeat this process in the associated materials repo.
 
@@ -83,7 +83,7 @@ Minor changes should be part of the current edition. On merging branches to an
 
 Major new releases have specific launch dates, and should be created thusly:
 
-1. Create a new branch off the latest `editions/x.x` branch, with the new 
+1. Create a new branch off the latest `editions/x.x` branch, with the new
 edition number. For example, if your latest published edition is `editions/1.2`,
  one would branch off `editions/1.2` to create the `editions/2.0`
    edition.
