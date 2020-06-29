@@ -41,14 +41,14 @@ appropriate materials repo location> [https://github.com/raywenderlich/bkk-mater
 
 ## How to set up new chapter branches in this repo
 
-If you’re adding a chapter to a new book (edition/1.0), or a new chapter to an
+If you’re adding a chapter to a new book (editions/1.0), or a new chapter to an
 existing book, use these instructions:
 
 1. Clone this repository to your local machine.
 2. Using Terminal or a shell console, navigate into the directory that contains
 this repo.
 3. For each new chapter directory and branch you would like to create, execute
-the following command: `make-codex-subdirectory.sh 00-chapter-name-here`,
+the following command: `./make-codex-subdirectory.sh 00-chapter-name-here`,
 replacing `00-chapter-name-here` with the (mandatory) zero-padded chapter number
 and hyphenated lowercase name of the chapter. Examples are "01-introduction"
 and "22-gitignore-after-the-fact".
@@ -66,7 +66,7 @@ these instructions:
 2. Using Terminal or a shell console, navigate into the directory that contains
  this repo.
 3. For each chapter branch you would like to create, execute the following
- command: `make-codex-branch.sh 00-chapter-name-here`, replacing
+ command: `./make-codex-branch.sh 00-chapter-name-here`, replacing
  `00-chapter-name-here` with the actual zero-padded chapter number and
  hyphenated lowercase name of the chapter. Examples are "01-introduction"
  and "22-gitignore-after-the-fact". This won’t do anything to the existing
