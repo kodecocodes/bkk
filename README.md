@@ -21,8 +21,7 @@ Don’t forget to set up the GitHub book team with **Write** access to this repo
 
 Once you’ve done the above and removed these instructions, it’s a good idea to
 now go create the `sku-materials` repo from the
-[https://github.com/raywenderlich/bkk-materials]
-(https://github.com/raywenderlich/bkk-materials) repo so you don’t forget.
+[https://github.com/raywenderlich/bkk-materials](https://github.com/raywenderlich/bkk-materials) repo so you don’t forget.
 
 Unlike this repo, the materials repo should be public.
 
@@ -36,8 +35,7 @@ of this book.
 > __NB:__ The downloadable materials that accompany the book (source code,
 projects, assets, etc) must __not__ be stored in this repo. They should
 > be stored in a separate repo, here: <TODO: Update URL with the
-appropriate materials repo location> [https://github.com/raywenderlich/bkk-materials]
-(https://github.com/raywenderlich/bkk-materials).
+appropriate materials repo location> [https://github.com/raywenderlich/bkk-materials](https://github.com/raywenderlich/bkk-materials).
 
 ## How to set up new chapter branches in this repo
 
@@ -48,7 +46,7 @@ existing book, use these instructions:
 2. Using Terminal or a shell console, navigate into the directory that contains
 this repo.
 3. For each new chapter directory and branch you would like to create, execute
-the following command: `./scipts/make-codex-subdirectory.sh 00-chapter-name-here`,
+the following command: `./scripts/make-codex-subdirectory.sh 00-chapter-name-here`,
 replacing `00-chapter-name-here` with the (mandatory) zero-padded chapter number
 and hyphenated lowercase name of the chapter. Examples are "01-introduction"
 and "22-gitignore-after-the-fact".
