@@ -8,7 +8,7 @@ title: Book License
 By purchasing _Book Title Here_, you have the following license:
 
 * You are allowed to use and/or modify the source code in _Book Title Here_ in as many apps as you want, with no attribution required.
-* You are allowed to use and/or modify all art, images and designs that are included in _Book Title Here_ in as many apps as you want, but must include this attribution line somewhere inside your app: “Artwork/images/designs: from _Book Title Here, available at www.raywenderlich.com”.
+* You are allowed to use and/or modify all art, images and designs that are included in _Book Title Here_ in as many apps as you want, but must include this attribution line somewhere inside your app: “Artwork/images/designs: from _Book Title Here_, available at www.raywenderlich.com”.
 * The source code included in _Book Title Here_ is for your personal use only. You are NOT allowed to distribute or sell the source code in _Book Title Here_ without prior authorization.
 * This book is for your personal use only. You are NOT allowed to sell this book without prior authorization, or distribute it to friends, coworkers or students; they would need to purchase their own copies.
 
