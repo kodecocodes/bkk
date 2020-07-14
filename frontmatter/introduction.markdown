@@ -2,6 +2,7 @@
 number: "iv"
 title: "Introduction"
 section: 0
+free: true
 ```
 
 # Introduction

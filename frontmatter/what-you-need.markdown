@@ -2,6 +2,7 @@
 number: "i"
 title: What You Need
 section: 0
+free: true
 ```
 
 # What You Need

@@ -2,6 +2,7 @@
 number: "ii"
 title: Book Source Code & Forums
 section: 0
+free: true
 ```
 
 # Book Source Code & Forums

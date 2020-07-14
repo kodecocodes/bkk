@@ -2,6 +2,7 @@
 number: "iii"
 title: About the Cover
 section: 0
+free: true
 ```
 
 # About the Cover
