@@ -4,6 +4,7 @@ sku: TODO
 edition: 1.0
 version_description: First Edition
 title: TODO
+isbn: TODO
 description: |
   TODO. This can be multiple lines. Just be sure to maintain the indent on
   subsequent lines.
@@ -13,6 +14,8 @@ released_at: 2050-01-01
 materials_url: https://github.com/raywenderlich/TODO-materials/tree/editions/1.0
 # A link to a book specific forum.
 forum_url: https://forums.raywenderlich.com/c/books/TODO
+# A link to the physical book on Amazon
+amazon_url: TODO
 # These image fields are uploaded to the CDN. Use ~ to leave blank.
 cover_image: frontmatter/images/cover.png
 gallery_image: ~
@@ -29,6 +32,7 @@ domains:
   - ios
   - android
 categories: []
+recommended_skus: []
 # The following are interpreted as markdown. The | means you can provide a multiline string.
 who_is_this_for_md: |
   TODO
