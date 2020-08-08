@@ -1,5 +1,5 @@
 ```metadata
-number: "1"
+number: "1" # Can be set to "auto"
 title: "Chapter 1: Chapter Name Here"
 section: 1
 free: true
