@@ -8,6 +8,9 @@ isbn: TODO
 description: |
   TODO. This can be multiple lines. Just be sure to maintain the indent on
   subsequent lines.
+short_description: |
+  TODO. This can be multiple lines. Just be sure to maintain the indent on
+  subsequent lines.
 # Date formatted as yyyy-mm-dd. The edition will be available at midnight, UTC.
 released_at: 2050-01-01
 # A link to a specific branch of the materials repo—a public repo hosted on GitHub.
@@ -44,6 +47,8 @@ hide_chapter_numbers: false
 # If the book is "in flux", then we disable some UX (like notebook), to prevent breaking things
 # This is likely to only be needed for cook books.
 in_flux: false
+# How many "pages" long is this book?
+pages: ~
 
 authors:
   # These are applied to every chapter in the book. You can specify at a per-chapter level in the
