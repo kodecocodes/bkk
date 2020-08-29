@@ -37,6 +37,51 @@ projects, assets, etc) must __not__ be stored in this repo. They should
 > be stored in a separate repo, here: <TODO: Update URL with the
 appropriate materials repo location> [https://github.com/raywenderlich/bkk-materials](https://github.com/raywenderlich/bkk-materials).
 
+## Useful Tools
+
+The tooling supporting book creation is provided via the way of a docker container. As such
+you need to ensure that you have docker installed on your local machine. To discover how
+to do this, please visit [Docker Desktop](https://www.docker.com/products/docker-desktop).
+
+### Linting
+
+You can use the `robles` linter to check that you don't have mistakes in your metadata,
+and image locations.
+
+In a terminal, navigate to this repo, and then run the following command:
+
+```
+$ bin/lint
+```
+
+The first time this runs (and whenever there is an updated container available), this will
+download the latest version of the docker container. It will then run the linting process
+and give you directions to any failures or warnings.
+
+### Local Preview
+
+`robles` has an embedded web server that allows you to preview what the completed chapter
+will look like when deployed to raywenderlich.com.
+
+> __Note:__ This is necessarily __not identical__ to the online version, however it serves as
+> a good approximation, allowing you to address major stylistic issues before publication.
+
+In a terminal, navigate to this repo, and then run the following command:
+
+```
+$ bin/serve
+```
+
+This will start a webserver on your local machine at http://localhost:4567/. Navigate to this
+address with your web browser. From here you can use the table of contents to navigate to the
+chapter of your choice.
+
+This server watches the filesystem, so as you make changes and save them, the page in your
+browser will automatically refresh.
+
+To stop the server, go back to the terminal and press __Ctrl + C__.
+
+
 ## How to set up new chapter branches in this repo
 
 If you’re adding a chapter to a new book (editions/1.0), or a new chapter to an
