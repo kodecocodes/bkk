@@ -1,0 +1,17 @@
+---
+# vend.yaml
+#
+# contributors is an array of all the contributors that should receive commission for this
+# version of the book.
+# Each element in the array should have a username and a percentage attribute. The total must
+# sum to 100%.
+# The publisher's share should be attributed to the user _razeware (note the leading _).
+contributors:
+  - username: _razeware
+    percentage: 100
+# price_band specifies which band this book lives in. It can be one of:
+#  - free
+#  - 2020_full_book
+#  - 2020_short_book
+#  - 2020_deprecated_book
+price_band: 2020_full_book

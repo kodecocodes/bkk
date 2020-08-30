@@ -14,7 +14,8 @@ To use this repo, complete the following:
 3. Use https://github.com/raywenderlich/bkk-materials to create a materials repo
    to accompany this book repo. Unlike this repo, the materials should be public.
 4. Edit __publish.yaml__ to populate all the fields as appropriate.
-5. Edit __README.md__ (this file) to remove these instructions, and leave the
+5. Edit __vend.yaml__ to populate all the fields as appropriate.
+6. Edit __README.md__ (this file) to remove these instructions, and leave the
 remaining details below.
 
 Don’t forget to set up the GitHub book team with **Write** access to this repo.
