@@ -5,9 +5,9 @@ edition: 1.0
 version_description: First Edition
 title: TODO
 isbn: TODO
-description: |
+description_md: |
   TODO. This can be multiple lines. Just be sure to maintain the indent on
-  subsequent lines.
+  subsequent lines. It is interpreted as markdown.
 short_description: |
   TODO. This can be multiple lines. Just be sure to maintain the indent on
   subsequent lines.
