@@ -41,6 +41,10 @@ section: 1
 free: false
 author: TODO: By Your Name
 authors:
+  # These are applied on a per-chapter basis. If you would like to apply a role to the entire
+  # book (i.e. every chapter), use the authors attribute in publish.yaml.
+  # Roles: fpe, editor, tech_editor, author, illustrator
+  # Use your rw.com username.
   - username: TODO:yourusername
     role: author
 description: |
