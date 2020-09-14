@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - 'editions/**'
+  workflow_dispatch:
 
 jobs:
   lint:
