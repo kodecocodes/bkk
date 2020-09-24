@@ -48,7 +48,7 @@ authors:
   - username: TODO:yourusername
     role: author
 description: |
-  TODO: FPE: Please provide 2-3 sentences describing, at a high-level, what this chapter will cover. The description can be
+  TODO: Author: Please provide 1-2 sentences describing, at a high-level, what this chapter will cover. The description can be
   on multiple lines, provided you respect the indentation.
 \`\`\`
 
