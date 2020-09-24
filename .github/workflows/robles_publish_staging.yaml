@@ -33,7 +33,6 @@ jobs:
   publish:
     name: Publish to alexandria
     runs-on: ubuntu-latest
-    if: github.event_name == 'push'
     needs: lint
     steps:
       - name: Checkout Code
