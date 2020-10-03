@@ -7,5 +7,5 @@ echo "============================================"
 echo " "
 
 docker pull razeware/robles:release-v1
-docker run --rm -v `pwd`:/data/src \
+docker run --rm -v "$(pwd):/data/src" \
  razeware/robles:release-v1 bin/robles lint --without-edition
