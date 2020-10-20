@@ -23,6 +23,8 @@ amazon_url: TODO
 cover_image: frontmatter/images/cover.png
 gallery_image: ~
 twitter_card_image: ~
+artwork_image: ~
+icon_image: ~
 trailer_video_url: ~
 # Fill each of these in
 professional: false
