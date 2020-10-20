@@ -1,6 +1,11 @@
 ---
 # vend.yaml
 #
+# edition is the same as the edition attribute in publish.yaml. It must match the branch name
+# before linting will pass / the edition will publish. It is replicated in vend.yaml as a check
+# to make sure that FPE's review this file, specifically the contributors array, before being
+# able to publish a new edition.
+edition: ~
 # contributors is an array of all the contributors that should receive commission for this
 # version of the book.
 # Each element in the array should have a username and a percentage attribute. The total must
