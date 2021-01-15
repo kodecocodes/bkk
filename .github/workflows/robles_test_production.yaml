@@ -10,7 +10,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
       - name: Lint via robles
-        uses: docker://razeware/robles:latest
+        uses: docker://razeware/robles:release-v1
         with:
           entrypoint: '/app/robles/bin/robles'
           args: 'lint'

@@ -16,7 +16,7 @@ jobs:
         uses: docker://razeware/robles:staging
         with:
           entrypoint: '/app/robles/bin/robles'
-          args: 'lint'
+          args: 'book lint'
         env:
           ENV: staging
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -41,7 +41,7 @@ jobs:
         uses: docker://razeware/robles:staging
         with:
           entrypoint: '/app/robles/bin/robles'
-          args: 'publish'
+          args: 'book publish'
         env:
           ALEXANDRIA_BASE_URL: https://alexandria.rwdev.io:8443
           ALEXANDRIA_SERVICE_API_TOKEN: ${{ secrets.ALEXANDRIA_SERVICE_API_TOKEN_STAGING }}
