@@ -9,7 +9,7 @@ ISBN: "978-1-942878-86-5"
 
 Author Names Here
 
-Copyright ©2020 Razeware LLC.
+Copyright ©2021 Razeware LLC.
 
 ### Notice of Rights
 
