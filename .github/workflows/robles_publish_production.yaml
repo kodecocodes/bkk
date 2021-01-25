@@ -13,10 +13,10 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
       - name: Lint via robles
-        uses: docker://razeware/robles:release-v1
+        uses: docker://razeware/robles:release-v2
         with:
           entrypoint: '/app/robles/bin/robles'
-          args: 'lint'
+          args: 'book lint'
         env:
           ENV: staging
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -38,10 +38,10 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
       - name: Publish via robles
-        uses: docker://razeware/robles:release-v1
+        uses: docker://razeware/robles:release-v2
         with:
           entrypoint: '/app/robles/bin/robles'
-          args: 'publish'
+          args: 'book publish'
         env:
           ALEXANDRIA_BASE_URL: https://library.raywenderlich.com
           ALEXANDRIA_SERVICE_API_TOKEN: ${{ secrets.ALEXANDRIA_SERVICE_API_TOKEN_PRODUCTION }}
