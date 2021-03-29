@@ -3,7 +3,7 @@ title: "Book Title Here"
 ISBN: "978-1-942878-86-5"
 ```
 
-[TODO: ME: Fill out this page]
+[TODO: Book Team Lead - Fill this page]
 
 ### Book Title Here
 

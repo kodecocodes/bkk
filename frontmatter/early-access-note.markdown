@@ -5,7 +5,7 @@ title: Early Access Edition
 
 # Early Access Edition
 
-[TODO: ME: Put name of book below]
+[TODO: Book Team Lead - Add book name below]
 
 You’re reading an an early access edition of _Book Name Goes Here_. This edition contains a sample of the chapters that will be contained in the final release.
 

@@ -7,7 +7,7 @@ title: "Section I: Section One Name Here"
 
 [TODO: FPE: Please update with a short overview of this section. Don't list the chapters as we used to do in previous books. The chapter listings in a section will be auto-generated. This page should contain 1-2 paragraphs, not more, summarizing what the reader will learn and do. This is the intro to the next section of the book, so make it interesting!]
 
-EXAMPLE BELOW. PLEASE DELETE EXAMPLE WHEN COMPLETED
+**EXAMPLE BELOW. PLEASE DELETE EXAMPLE WHEN COMPLETED**
 
 Sumerian provides many tools to create rich 3D experiences. From an easy-to use-3D editor to an easy-to-understand visual scripting engine, Sumerian has everything you need to build unique scenes. 
 

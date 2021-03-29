@@ -5,7 +5,7 @@ title: Conclusion
 
 # Conclusion
 
-[TODO: FPE: Please add concluding comments from the team and a thank you from the reader. Feel free to also treat this as a sort or "Where to Go From Here?" and direct the reader to other helpful resources on our site to help them deepen their understanding. See EXAMPLE below.]
+[TODO: FPE: Please add concluding comments from the team and a thank you from the reader. Feel free to also treat this as a sort or "Where to Go From Here?" and direct the reader to other helpful resources on our site to help them deepen their understanding. This can be anywhere from 2-3 paragraphs to a full page. See EXAMPLE below.]
 
 EXAMPLE: 
 
