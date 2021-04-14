@@ -1,3 +1,5 @@
+[TODO: FPE - Fill in the bios & headshots for each team member here. Your team members should provide these for you.]
+
 ## About the Authors
 
 $[#tb]
