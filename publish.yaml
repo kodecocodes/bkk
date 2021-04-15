@@ -16,7 +16,7 @@ released_at: 2050-01-01
 # A link to a specific branch of the materials repo—a public repo hosted on GitHub.
 materials_url: https://github.com/raywenderlich/TODO-materials/tree/editions/1.0
 # A link to a book specific forum.
-forum_url: https://forums.raywenderlich.com/c/books/TODO
+forum_url: TODO
 # A link to the physical book on Amazon
 amazon_url: TODO
 # These image fields are uploaded to the CDN. Use ~ to leave blank.
@@ -27,7 +27,7 @@ artwork_image: ~
 icon_image: ~
 trailer_video_url: ~
 # Fill each of these in
-professional: false
+professional: true
 difficulty: beginner/intermediate/advanced
 platform: TODO
 language: TODO
