@@ -72,10 +72,6 @@ segments:
     path: frontmatter/title.markdown
   - kind: legal
     path: frontmatter/legal.markdown
-  - kind: dedications
-    path: frontmatter/dedications.markdown
-  - kind: team-bios
-    path: frontmatter/team.markdown
   - kind: chapter
     path: frontmatter/license.markdown
   - kind: chapter
@@ -88,10 +84,16 @@ segments:
     path: frontmatter/what-you-need.markdown
   - kind: chapter
     path: frontmatter/book-source-code.markdown
-  - kind: chapter 
-    path: frontmatter/about-the-cover.markdown
   - kind: chapter
-    path: frontmatter/introduction.markdown  
+    path: frontmatter/about-the-cover.markdown
+  - kind: dedications
+    path: frontmatter/dedications.markdown
+  - kind: team-bios
+    path: frontmatter/team.markdown
+  - kind: chapter
+    path: frontmatter/acknowledgements.markdown
+  - kind: chapter
+    path: frontmatter/introduction.markdown
   - kind: section
     path: section-intros/section-intro-1.markdown
   - kind: chapter

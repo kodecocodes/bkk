@@ -1,4 +1,11 @@
-## Dedications
+```metadata
+number: "iv"
+title: "Dedications"
+section: 0
+free: true
+```
+
+# Dedications
 
 [TODO: FPE - Add Author dedications here for each author. Dedications are usually 3-5 sentences where authors thank their family & friends, loved ones and finally the raywenderlich.com team. Make sure to add the author's name after each dedication. Use the dedication below as an example.]
 
