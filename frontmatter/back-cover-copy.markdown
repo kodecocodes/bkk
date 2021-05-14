@@ -1,29 +1,27 @@
 [TODO: FPE: Please fill this out by following the template and using the example below as a guide.]
 
-# [TODO: Learn (topic and topic)!]
+# [TODO: Learn topic and topic! 5 words max.]
 
-[TODO: Short, two-sentence paragraph to explain why learning this topic is important, and a note about how the official documentation is often lacking, or not in-depth enough.]
+[TODO: Intro: 70 words max. Two paragraphs max:  First short, two-sentence paragraph to explain why learning this topic is important, and a note about how the official documentation is often lacking, or not in-depth enough.]
 
 [TODO: Another short one- or two-sentence paragraph saying "<Book Title> is here to help, by showing you x, y and z!""]
 
 ## Who This Book is For
 
-[TODO: One sentence saying what specific type of person this book is for.]
+[TODO: One sentence saying what specific type of person this book is for. 30 words target, 40 words max.]
 
 ## Topics Covered in [TODO: <Book Title Here>]
 
-[TODO: Add in the most exciting or important topics covered. Minimum of six, no more than eight.]
+[TODO: Add in the most exciting or important topics covered. Minimum of 6 two-line (11-22 words) bullet points or 10 single-line (10 words max) bullet points, or some combination of the two. Topics should be in the format:]
 
-- First important topic
-- Second important topic
-- Third important topic
-- Fourth important topic
-- Fifth important topic
-- Sixth important topic
-- Seventh important topic
-- Eighth important topic
+- **First important topic**: Write a description of what they'll learn to do.
+- **Second important topic**: Write a description of what they'll learn to do.
+- **Third important topic**: Write a description of what they'll learn to do.
+- **Fourth important topic**: Write a description of what they'll learn to do.
+- **Fifth important topic**: Write a description of what they'll learn to do.
+- **Sixth important topic**: Write a description of what they'll learn to do.
 
-One thing you can count on: after reading this book, you’ll be prepared to [TODO: tell the reader what they'll be prepared to take on once they've completed this book.]
+One thing you can count on: after reading this book, you’ll be prepared to [TODO: tell the reader what they'll be prepared to take on once they've completed this book. <22 word target, max 40 words. (not including "one thing you can count on")]
 
 [FPE: The section below remains unchanged. No need to update anything in here.]
 
