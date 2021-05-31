@@ -21,7 +21,7 @@ forum_url: TODO
 amazon_url: TODO
 # These image fields are uploaded to the CDN. Use ~ to leave blank.
 cover_image: frontmatter/images/cover.png
-gallery_image: ~
+email_mockup_image: ~
 twitter_card_image: ~
 artwork_image: ~
 icon_image: ~
