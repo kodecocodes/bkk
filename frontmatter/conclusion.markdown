@@ -19,7 +19,7 @@ If you’re hungry for more architecture related books we recommend reading _Des
 
 [FPE: The two lines below are boilerplate for all of our books, please leave them as-is.]
 
-If you have any questions or comments as you work through this book, please stop by our forums at [http://forums.raywenderlich.com](http://forums.raywenderlich.com) and look for the particular forum category for this book.
+If you have any questions or comments as you work through this book, please stop by our forums at [https://forums.raywenderlich.com](https://forums.raywenderlich.com) and look for the particular forum category for this book.
 
 Thank you again for purchasing this book. Your continued support is what makes the books, tutorials, videos and other things we do at raywenderlich.com possible. We truly appreciate it!
 
