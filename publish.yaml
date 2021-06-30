@@ -91,7 +91,7 @@ segments:
   - kind: team-bios
     path: frontmatter/team.markdown
   - kind: chapter
-    path: frontmatter/acknowledgements.markdown
+    path: frontmatter/acknowledgments.markdown
   - kind: chapter
     path: frontmatter/introduction.markdown
   - kind: section
