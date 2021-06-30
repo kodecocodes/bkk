@@ -1,11 +1,11 @@
 ```metadata
 number: "vi"
-title: Acknowledgements
+title: Acknowledgments
 section: 0
 free: true
 ```
 
-# Acknowledgements
+# Acknowledgments
 
 [FPE TODO : Fill this page with any acknowledgements for content development, previous authors, other book teams whose work this book is based on etc.]
 
