@@ -39,13 +39,13 @@ number: "$chapterNumber"
 title: "Chapter $chapterNumber: Chapter Title Here"
 section: 1
 free: false
-author: TODO: By Your Name
+author: TODO By Your Name
 authors:
   # These are applied on a per-chapter basis. If you would like to apply a role to the entire
   # book (i.e. every chapter), use the authors attribute in publish.yaml.
   # Roles: fpe, editor, tech_editor, author, illustrator
   # Use your rw.com username.
-  - username: TODO:yourusername
+  - username: TODO yourusername
     role: author
 description: |
   TODO: Author: Please provide 1-2 sentences describing, at a high-level, what this chapter will cover. The description can be
