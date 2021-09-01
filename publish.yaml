@@ -18,7 +18,7 @@ materials_url: https://github.com/raywenderlich/TODO-materials/tree/editions/1.0
 # A link to a book specific forum.
 forum_url: TODO
 # A link to the physical book on Amazon
-amazon_url: TODO
+amazon_url: ~
 # These image fields are uploaded to the CDN. Use ~ to leave blank.
 cover_image: frontmatter/images/cover.png
 email_mockup_image: ~
