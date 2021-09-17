@@ -1,5 +1,5 @@
 ```metadata
-number: "v"
+number: "iv"
 title: "About the Team"
 section: 0
 free: true
@@ -57,16 +57,5 @@ $[#tb]
 ![portrait bordered](images/placeholder-image.png)
 
 **Person Six** is the final pass editor for this book. Fill out some information about them.
-
-$[tb#]
-
-## About the Artist 
-
-
-$[#tb]
-
-![portrait bordered](images/Vicki-Wenderlich.jpeg)
-
-**Vicki Wenderlich** is the designer and artist of the cover of this book. She is Ray’s wife and business partner. She is a digital artist who creates illustrations, game art and a lot of other art or design work for the tutorials and books on raywenderlich.com. When she’s not making art, she loves hiking, a good glass of wine and attempting to create the perfect cheese plate.
 
 $[tb#]
