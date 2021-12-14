@@ -21,12 +21,12 @@
 - **Fifth important topic**: Write a description of what they'll learn to do.
 - **Sixth important topic**: Write a description of what they'll learn to do.
 
-One thing you can count on: after reading this book, you’ll be prepared to [TODO: tell the reader what they'll be prepared to take on once they've completed this book. <22 word target, max 40 words. (not including "one thing you can count on")]
+One thing you can count on: After reading this book, you’ll be prepared to [TODO: tell the reader what they'll be prepared to take on once they've completed this book. <22 word target, max 40 words. (not including "one thing you can count on")]
 
 [FPE: The section below remains unchanged. No need to update anything in here.]
 
 ## About the Tutorial Team
 
-The Tutorial Team is a group of app developers and authors who write tutorials at the popular website raywenderlich.com. We take pride in making sure each tutorial we write holds to the highest standards of quality. We want our tutorials to be well written, easy to follow, and fun.
+The Tutorial Team is a group of app developers and authors who write tutorials at the popular website, raywenderlich.com. We take pride in making sure each tutorial we write meets the highest standards of quality. We want our tutorials to be well-written, easy to follow and fun.
 
-If you've enjoyed the tutorials we've written in the past, you're in for a treat. The tutorials we've written for this book are some of our best yet - and this book contains detailed technical knowledge you simply won't be able to find anywhere else.
+If you’ve enjoyed the tutorials we’ve written in the past, you’re in for a treat. The tutorials we’ve written for this book are some of our best yet — and this book contains detailed technical knowledge you simply won’t be able to find anywhere else.
