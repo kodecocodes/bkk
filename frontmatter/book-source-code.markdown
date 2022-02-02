@@ -7,7 +7,7 @@ free: true
 
 # Book Source Code & Forums
 
-### Where to download the materials for this book
+### Where to Download the Materials for This Book
 
 The materials for this book can be cloned or downloaded from the GitHub book materials repository:
 
