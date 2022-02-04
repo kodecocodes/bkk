@@ -14,7 +14,7 @@
 
 [TODO: Add in the most exciting or important topics covered. Minimum of 6 two-line (11-22 words) bullet points or 10 single-line (10 words max) bullet points, or some combination of the two. Topics should be in the format:]
 
-- **First important topic**: Write a description of what they'll learn to do.
+- **First Important Topic**: Write a description of what they'll learn to do.
 - **Second important topic**: Write a description of what they'll learn to do.
 - **Third important topic**: Write a description of what they'll learn to do.
 - **Fourth important topic**: Write a description of what they'll learn to do.
