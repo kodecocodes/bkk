@@ -1,6 +1,6 @@
 ```metadata
 title: "Book Title Here"
-ISBN: "978-1-942878-86-5"
+ISBN: "123456789"
 ```
 
 [TODO: Book Team Lead - Fill this page]
@@ -9,7 +9,7 @@ ISBN: "978-1-942878-86-5"
 
 Author Names Here
 
-Copyright ©2021 Razeware LLC.
+Copyright ©2022 Razeware LLC.
 
 ### Notice of Rights
 

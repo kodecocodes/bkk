@@ -61,8 +61,6 @@ authors:
   # authors: []
   # otherwise, contributors should be listed below with the following example format:
   - username: TODO
-    role: editor
-  - username: TODO
     role: fpe
 # The list of segments that used to live in a codex file
 segments:
