@@ -6,10 +6,10 @@ version_description: First Edition
 title: TODO
 isbn: 123456789
 description_md: |
-  TODO. This can be multiple lines. Just be sure to maintain the indent on
+  FPE TODO. This can be multiple lines. Just be sure to maintain the indent on
   subsequent lines. It is interpreted as markdown.
 short_description: |
-  TODO. This can be multiple lines. Just be sure to maintain the indent on
+  FPE TODO. This can be multiple lines. Just be sure to maintain the indent on
   subsequent lines.
 # Date formatted as yyyy-mm-dd. The edition will be available at midnight, UTC.
 released_at: 2050-01-01
@@ -29,9 +29,9 @@ trailer_video_url: ~
 # Fill each of these in
 professional: true
 difficulty: beginner/intermediate/advanced
-platform: TODO
-language: TODO
-editor: TODO
+platform: FPE TODO
+language: FPE TODO
+editor: FPE TODO
 # These are arrays
 domains:
   - ios
@@ -40,9 +40,9 @@ categories: []
 recommended_skus: []
 # The following are interpreted as markdown. The | means you can provide a multiline string.
 who_is_this_for_md: |
-  TODO
+  FPE TODO
 covered_concepts_md: |
-  - TODO
+  - FPE TODO
 # DISPLAY ATTRIBUTES
 # Should the chapter number be shown next to the title on each chapter page?
 hide_chapter_numbers: false
