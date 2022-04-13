@@ -55,6 +55,12 @@ In a terminal, navigate to this repo, and then run the following command:
 $ bin/lint
 ```
 
+For windows, either use the linux subsystem, or the supplied batch file:
+
+```
+> bin\lint.bat
+``` 
+
 The first time this runs (and whenever there is an updated container available), this will
 download the latest version of the docker container. It will then run the linting process
 and give you directions to any failures or warnings.
@@ -71,6 +77,12 @@ In a terminal, navigate to this repo, and then run the following command:
 
 ```
 $ bin/serve
+```
+
+For windows, either use the linux subsystem, or the supplied batch file:
+
+```
+> bin\serve.bat
 ```
 
 This will start a webserver on your local machine at http://localhost:4567/. Navigate to this
