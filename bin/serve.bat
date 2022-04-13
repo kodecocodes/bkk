@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-
 echo " "
 echo "===================robles==================="
 echo " Starting local dev server..."
