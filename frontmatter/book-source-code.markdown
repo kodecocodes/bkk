@@ -15,4 +15,4 @@ The materials for this book can be cloned or downloaded from the GitHub book mat
 
 ### Forums
 
-We’ve also set up an official forum for the book at [forums.raywenderlich.com](http://forums.raywenderlich.com/). This is a great place to ask questions about the book or to submit any errors you may find.
+We’ve also set up an official forum for the book at [https://forums.raywenderlich.com/c/books/TODO](https://forums.raywenderlich.com/c/books/TODO). This is a great place to ask questions about the book or to submit any errors you may find.
