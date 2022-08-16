@@ -7,9 +7,6 @@ They should start with:
 
 Headshots should be a good, well lit picture of the team member's face that clearly shows what the team member looks like.
 
-* This shouldn't be an old picture of you. (E.g. you as a kid)
-* Only you should be in the photo. (Please no friends, family, spouses or pets)
-
 ## Examples
 
 Use the bio below from Denis as an example:
