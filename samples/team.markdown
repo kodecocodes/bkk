@@ -11,17 +11,5 @@ Headshots should be a good, well lit picture of the team member's face that clea
 
 Use the bio below from Denis as an example:
 
-"**Denis Buketa** is an author of this book. He's an Android developer who always tries to learn new things and get out of his comfort zone. Besides programming, he's a huge fan of audiobooks and podcasts. He also enjoys hanging out with friends and watching any kind of sport while having a cold beer."
+**Denis Buketa** is an author of this book. He's an Android developer who always tries to learn new things and get out of his comfort zone. Besides programming, he's a huge fan of audiobooks and podcasts. He also enjoys hanging out with friends and watching any kind of sport while having a cold beer."
 
-Or use Vicki's bio at the end, as another example.
-
-### About the Artist
-
-
-$[#tb]
-
-![portrait](images/Vicki-Wenderlich.jpeg)
-
-**Vicki Wenderlich** is the designer and artist of the cover of this book. She is Ray’s wife and business partner. She is a digital artist who creates illustrations, game art and a lot of other art or design work for the tutorials and books on raywenderlich.com. When she’s not making art, she loves hiking, a good glass of wine and attempting to create the perfect cheese plate.
-
-$[tb#]

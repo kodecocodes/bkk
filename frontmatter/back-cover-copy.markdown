@@ -27,6 +27,6 @@ One thing you can count on: After reading this book, you’ll be prepared to [TO
 
 ## About the Tutorial Team
 
-The Tutorial Team is a group of app developers and authors who write tutorials at the popular website, raywenderlich.com. We take pride in making sure each tutorial we write meets the highest standards of quality. 
+The Tutorial Team is a group of app developers and authors who write tutorials at the popular website, kodeco.com. We take pride in making sure each tutorial we write meets the highest standards of quality.
 
 We want our tutorials to be well-written, easy to follow and fun. If you’ve enjoyed the tutorials we’ve written in the past, you’re in for a treat. The tutorials we’ve written for this book are some of our best yet — and this book contains detailed technical knowledge you simply won’t be able to find anywhere else.
