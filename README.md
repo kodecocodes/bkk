@@ -1,4 +1,4 @@
-# `bkk`: raywenderlich.com Book Repo Template
+# `bkk`: kodeco.com Book Repo Template
 
 This repo is a template for starting new book projects. It is structured
 appropriately, contains some sample content, and is integrated with `robles`,
