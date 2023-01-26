@@ -25,8 +25,8 @@ One thing you can count on: After reading this book, you’ll be prepared to [TO
 
 [FPE: The section below remains unchanged. No need to update anything in here.]
 
-## About the Tutorial Team
+## About Team Kodeco
 
-The Tutorial Team is a group of app developers and authors who write tutorials at the popular website, kodeco.com. We take pride in making sure each tutorial we write meets the highest standards of quality.
+Team Kodeco is a group of app developers and authors who create learning materials including books, articles and videos for the popular mobile development e-learning platform, Kodeco. We take pride in making sure everything we publish meets the highest standards of quality.
 
-We want our tutorials to be well-written, easy to follow and fun. If you’ve enjoyed the tutorials we’ve written in the past, you’re in for a treat. The tutorials we’ve written for this book are some of our best yet — and this book contains detailed technical knowledge you simply won’t be able to find anywhere else.
+Our goal is to help you learn in a way that’s effective, easy to follow and fun. If you’ve enjoyed learning with us in the past, you’re in for a treat. The information in this book is some of our best yet — and it contains expert knowledge you simply can’t find anywhere else.
