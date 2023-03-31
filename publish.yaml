@@ -14,7 +14,7 @@ short_description: |
 # Date formatted as yyyy-mm-dd. The edition will be available at midnight, UTC.
 released_at: 2050-01-01
 # A link to a specific branch of the materials repo—a public repo hosted on GitHub.
-materials_url: https://github.com/raywenderlich/TODO-materials/tree/editions/1.0
+materials_url: https://github.com/kodecocodes/TODO-materials/tree/editions/1.0
 # A link to a book specific forum.
 forum_url: https://forums.kodeco.com/c/books/TODO
 # A link to the physical book on Amazon

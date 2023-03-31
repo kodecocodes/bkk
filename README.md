@@ -2,16 +2,16 @@
 
 This repo is a template for starting new book projects. It is structured
 appropriately, contains some sample content, and is integrated with `robles`,
-the raywenderlich.com automatic book publishing system.
+the Kodeco automatic book publishing system.
 
 To use this repo, complete the following:
 
 1. Click the __Use this template__ button above to create a new repo from this
    template. Choose an appropriate name and be sure to set it as **private**
    within
-   the `raywenderlich` organization.
+   the `kodecocodes` organization.
 2. Use robles to publish the required secrets (see Confluence).
-3. Use https://github.com/raywenderlich/bkk-materials to create a materials repo
+3. Use https://github.com/kodecocodes/bkk-materials to create a materials repo
    to accompany this book repo. Unlike this repo, the materials should be public.
 4. Edit __publish.yaml__ to populate all the fields as appropriate.
 5. Edit __vend.yaml__ to populate all the fields as appropriate.
@@ -22,7 +22,7 @@ Don’t forget to set up the GitHub book team with **Write** access to this repo
 
 Once you’ve done the above and removed these instructions, it’s a good idea to
 now go create the `sku-materials` repo from the
-[https://github.com/raywenderlich/bkk-materials](https://github.com/raywenderlich/bkk-materials) repo so you don’t forget.
+[https://github.com/kodecocodes/bkk-materials](https://github.com/kodecocodes/bkk-materials) repo so you don’t forget.
 
 Unlike this repo, the materials repo should be public.
 
@@ -36,7 +36,7 @@ of this book.
 > __NB:__ The downloadable materials that accompany the book (source code,
 projects, assets, etc) must __not__ be stored in this repo. They should
 > be stored in a separate repo, here: <TODO: Update URL with the
-appropriate materials repo location> [https://github.com/raywenderlich/bkk-materials](https://github.com/raywenderlich/bkk-materials).
+appropriate materials repo location> [https://github.com/kodecocodes/bkk-materials](https://github.com/kodecocodes/bkk-materials).
 
 ## Useful Tools
 
@@ -68,7 +68,7 @@ and give you directions to any failures or warnings.
 ### Local Preview
 
 `robles` has an embedded web server that allows you to preview what the completed chapter
-will look like when deployed to raywenderlich.com.
+will look like when deployed to kodeco.com.
 
 > __Note:__ This is necessarily __not identical__ to the online version, however it serves as
 > a good approximation, allowing you to address major stylistic issues before publication.

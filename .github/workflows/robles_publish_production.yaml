@@ -43,13 +43,13 @@ jobs:
           entrypoint: '/app/robles/bin/robles'
           args: 'book publish'
         env:
-          ALEXANDRIA_BASE_URL: https://library.raywenderlich.com
+          ALEXANDRIA_BASE_URL: https://library.kodeco.com
           ALEXANDRIA_SERVICE_API_TOKEN: ${{ secrets.ALEXANDRIA_SERVICE_API_TOKEN_PRODUCTION }}
           ENV: production
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID_PRODUCTION }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY_PRODUCTION }}
           AWS_BUCKET_NAME: robles-production
           AWS_REGION: us-east-1
-          IMAGES_CDN_HOST: assets.alexandria.raywenderlich.com
+          IMAGES_CDN_HOST: assets.alexandria.kodeco.com
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}

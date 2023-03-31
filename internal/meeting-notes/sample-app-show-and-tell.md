@@ -13,7 +13,7 @@
 ========
 
 ### Sample App #1 Name and Author: 
-**GitHub Materials Link:** www.github.com/raywenderlich/TODO-materials/
+**GitHub Materials Link:** www.github.com/kodecocodes/TODO-materials/
 
 **Notes**
 - 
@@ -30,7 +30,7 @@
 ========
 
 ### Sample App #2 Name and Author: 
-**GitHub Materials Link:** www.github.com/raywenderlich/TODO-materials/
+**GitHub Materials Link:** www.github.com/kodecocodes/TODO-materials/
 
 **Notes**
 - 
@@ -48,7 +48,7 @@
 ========
 
 ### Sample App #3 Name and Author: 
-**GitHub Materials Link:** www.github.com/raywenderlich/TODO-materials/
+**GitHub Materials Link:** www.github.com/kodecocodes/TODO-materials/
 
 **Notes**
 - 
@@ -66,7 +66,7 @@
 ========
 
 ### Sample App #4 Name and Author: 
-**GitHub Materials Link:** www.github.com/raywenderlich/TODO-materials/
+**GitHub Materials Link:** www.github.com/kodecocodes/TODO-materials/
 
 **Notes**
 - 

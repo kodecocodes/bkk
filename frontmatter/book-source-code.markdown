@@ -11,7 +11,7 @@ free: true
 
 The materials for this book can be cloned or downloaded from the GitHub book materials repository:
 
-- [https://github.com/raywenderlich/TODO-materials/tree/editions/1.0](https://github.com/raywenderlich/TODO-materials/tree/editions/1.0)
+- [https://github.com/kodecocodes/TODO-materials/tree/editions/1.0](https://github.com/kodecocodes/TODO-materials/tree/editions/1.0)
 
 ### Forums
 
