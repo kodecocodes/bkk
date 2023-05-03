@@ -15,5 +15,5 @@ jobs:
           entrypoint: '/app/robles/bin/robles'
           args: 'book lint --without-edition'
         env:
-          ENV: staging
+          ENV: production
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

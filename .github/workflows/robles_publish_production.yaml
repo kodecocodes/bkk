@@ -18,7 +18,7 @@ jobs:
           entrypoint: '/app/robles/bin/robles'
           args: 'book lint'
         env:
-          ENV: staging
+          ENV: production
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Notify slack - test results
         uses: voxmedia/github-action-slack-notify-build@v1
