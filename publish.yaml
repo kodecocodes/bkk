@@ -28,6 +28,8 @@ icon_image: ~
 trailer_video_url: ~
 # Fill each of these in
 professional: true
+access_personal: true
+access_team: true
 difficulty: beginner/intermediate/advanced
 platform: FPE TODO
 language: FPE TODO
