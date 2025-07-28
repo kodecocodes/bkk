@@ -9,7 +9,7 @@ ISBN: "123456789"
 
 Author Names Here
 
-Copyright ©2023 Kodeco Inc.
+Copyright ©2025 Kodeco Inc.
 
 ### Notice of Rights
 
