@@ -14,6 +14,27 @@ authors:
 description: |
   TODO: Author: Please provide 1-2 sentences describing, at a high-level, what this chapter will cover. The description can be
   on multiple lines, provided you respect the indentation.
+ai_disclosure:
+  # author_written | author_written_ai_edited | ai_written_author_edited | not_stated
+  words: author_written_ai_edited
+
+  # author_written | ai_assisted | ai_generated | none | not_stated
+  code: ai_assisted
+
+  # per type: author | ai | other_human | none
+  # omit a type the piece doesn't have; `voice` is required when the module has video
+  media:
+    diagrams: other_human
+    illustrations: author
+    voice: author
+
+  # Specifics of the AI assistance used for just the code part, if applicable. Omit if not applicable.
+  # Lines treated as strings.
+  code_meta:
+    tokens: 2.1M
+    approximate_cost: $0.90
+    model: Claude Opus 4.1
+    date: Sep 2026
 ```
 
 # Chapter 13: Chapter Name Here
